@@ -25,5 +25,4 @@ notes = Table(
 
 # databases query builder
 database = Database(DATABASE_URL)
-print(database, "122122")
-print("database url", DATABASE_URL)
+
